@@ -43,9 +43,11 @@ public class LogService extends WindowAdapter implements ActionListener {
 
     public void windowClosing(WindowEvent e) {
         super.windowClosing(e);
-        L.w("===================");
-        System.exit(0);
-//加入动作
-//
+        L.w("用户点击X关闭窗体");
+        int i = JOptionPane.showConfirmDialog(null,"是否确认退出!");
+        if(i==0){
+            System.exit(0);
+        }
+
     }
 }

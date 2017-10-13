@@ -2,11 +2,8 @@ package com.sy.snack.Controller;
 
 
 import com.sy.snack.Service.LogService;
-import com.sy.snack.Utils.L;
 
 import javax.swing.*;
-import java.awt.event.WindowAdapter;
-import java.awt.event.WindowEvent;
 
 /**
  * Created by Administrator on 2017/10/12.

@@ -2,8 +2,6 @@ package com.sy.snack;
 
 import com.sy.snack.Controller.SwingLogController;
 
-import javax.swing.*;
-
 /**
  * Created by Administrator on 2017/10/12.
  */
