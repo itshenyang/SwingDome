@@ -2,4 +2,4 @@
 cd ..
 git pull origin master
 mvn clean package
-java -jar target/GluttonousSnake-1.0-SNAPSHOT.jar
+java -jar target/SwingDome-1.0-SNAPSHOT.jar
